@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demon-consumer" />
+        <module name="demon-provoder" />
+        <module name="demon-simple-controller" />
+        <module name="demon-user-api" />
+        <module name="demon-user-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demon-consumer" target="1.5" />
+      <module name="demon-provoder" target="1.5" />
+      <module name="demon-rpc" target="1.5" />
+      <module name="demon-simple-controller" target="1.5" />
+      <module name="demon-user-api" target="1.5" />
+      <module name="demon-user-core" target="1.5" />
+      <module name="nettyrpc" target="1.5" />
+      <module name="user-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

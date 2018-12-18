@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demon-consumer/demon-consumer.iml" filepath="$PROJECT_DIR$/demon-consumer/demon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demon-provoder/demon-provoder.iml" filepath="$PROJECT_DIR$/demon-provoder/demon-provoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demon-rpc.iml" filepath="$PROJECT_DIR$/demon-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demon-simple-controller/demon-simple-controller.iml" filepath="$PROJECT_DIR$/demon-simple-controller/demon-simple-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demon-user-api/demon-user-api.iml" filepath="$PROJECT_DIR$/demon-user-api/demon-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demon-user-core/demon-user-core.iml" filepath="$PROJECT_DIR$/demon-user-core/demon-user-core.iml" />
+    </modules>
+  </component>
+</project>
