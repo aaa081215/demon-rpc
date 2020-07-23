@@ -1,7 +1,7 @@
-# demon-rpc 魔鬼rpc
+# Demon-Rpc 魔鬼rpc
 
 ![image](https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy45NDIxLnRvcC8xNTk1NDgzMDIzJTI4MSUyOS5wbmc)
-## 手写分布式RPC框架 （零配置）
+## 零配置RPC框架
 ## 设计初衷：解决SpringCloud Http调用方式效率低下，Dubbo系列配置过于繁琐的问题。
 ## 修改日志：
  ####  &#8195;自定义注解实现零配置调用
